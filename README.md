@@ -1,6 +1,7 @@
 # `Kaggle fashion dataset` prediction problem
 
-Here it is [Piano.ipynb](kaggle fashion dataset.ipynb)
+Here it is [kaggle fashion dataset.ipynb](kaggle_fashion_dataset.ipynb)
+
 
 # `License`
 MIT
